@@ -10,10 +10,10 @@ bottom part of the code Ext_caract_4ch_13.m.
 
 All the binaural beats have a central frequency of 250 Hz.
 
-Binaural1: 8 Hz binaraul beat 
+Binaural1: 8 Hz binaural beat 
 
-Binaural2: 6 Hz binaraul beat 
+Binaural2: 6 Hz binaural beat 
 
-Binaural3: 4 Hz binaraul beat 
+Binaural3: 4 Hz binaural beat 
 
-Binaural4: 2 Hz binaraul beat
+Binaural4: 2 Hz binaural beat
